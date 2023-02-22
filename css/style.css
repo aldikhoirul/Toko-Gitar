@@ -152,9 +152,12 @@ body {
 }
 
 .about h3,
-p,
-.menu h3,
-p {
+.menu h3 {
+  color: #000;
+}
+
+.about p,
+.menu p {
   color: #000;
 }
 
