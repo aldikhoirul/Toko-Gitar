@@ -157,7 +157,8 @@ body {
 }
 
 .about p,
-.menu p {
+.menu p,
+.contact p {
   color: #000;
 }
 
